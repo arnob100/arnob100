@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arnob100" alt="arnob100" /></a> </p>
 
-- 🔭 I’m currently working on [personal project](https://github.com/arnob100/CustomizePhoneCase)
+- 🔭 I’m currently working on my [personal project](https://github.com/arnob100/CustomizePhoneCase)
 - 🙄 I'm interested in Development and tuktak coding
 - 🌱 I’m currently learning  Next.js and other backend tools**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **abarnob21@gmail.com** and don't hamper my private life
 
-- ⚡ Fun fact **I live in 5D **
+- ⚡ Fun fact **I am funny 😴**
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=arnob100&label=Profile%20views&color=0e75b6&style=flat" alt="arnob100" /> </p>
 <h3 align="left">My favorite coding platform :</h3>
 <p align="left">
