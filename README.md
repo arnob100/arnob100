@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arnob Bokshi</h1>
 <h3 align="center">Fathers's angel😑</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arnob100&label=Profile%20views&color=0e75b6&style=flat" alt="arnob100" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arnob100" alt="arnob100" /></a> </p>
 
 - 🔭 I’m currently working on [personal project](https://github.com/arnob100/CustomizePhoneCase)
@@ -18,7 +16,7 @@
 - 📫 How to reach me **abarnob21@gmail.com** and don't hamper my private life
 
 - ⚡ Fun fact **I live in 5D **
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=arnob100&label=Profile%20views&color=0e75b6&style=flat" alt="arnob100" /> </p>
 <h3 align="left">My favorite coding platform :</h3>
 <p align="left">
 <a href="https://www.leetcode.com/arnob69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arnob69" height="30" width="40" /></a>
