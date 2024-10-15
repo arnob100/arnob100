@@ -6,9 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arnob100" alt="arnob100" /></a> </p>
 
 - 🔭 I’m currently working on [personal project](https://github.com/arnob100/CustomizePhoneCase)
-- 
 - 🙄 I'm interested in Development and tuktak coding
-- 
 - 🌱 I’m currently learning  Next.js and other backend tools**
 
 - 🤝 I'm looking for ambitious engineers who pay attention to detail and requirements.
@@ -66,7 +64,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="46" alt="vscode logo"  />
 </div>
 
-
+<h3 align="left">Stats</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arnob100&show_icons=true&locale=en&layout=compact" alt="arnob100" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arnob100&show_icons=true&locale=en" alt="arnob100" /></p>
