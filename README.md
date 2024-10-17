@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Data structure and algorithm & modern frontend technologies**
 
-- 📫 How to reach me **abarnob21@gmail.com** and don't hamper my private life
+- 📫 How to reach me **abarnob21@gmail.com** and don't interfere in my private life
 
 - ⚡ Fun fact **I am funny 😴**
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=arnob100&label=Profile%20views&color=0e75b6&style=flat" alt="arnob100" /> </p>
