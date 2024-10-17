@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Arnob Bokshi</h1>
-<h3 align="center">It takes time to build a new empire</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arnob100" alt="arnob100" /></a> </p>
 
