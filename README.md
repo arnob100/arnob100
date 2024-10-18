@@ -5,18 +5,15 @@
 - 🔭 I’m currently working on my [personal project](https://github.com/arnob100/CustomizePhoneCase)
 - 🙄 I'm interested in Development and tuktak coding
 - 🌱 I’m currently learning  Next.js and other backend tools**
-
-- 🤝 I'm looking for ambitious engineers who pay attention to detail and requirements.
-
 - 👨‍💻 All of my projects are available at (some are private)
 
-- 💬 Ask me about **Data structure and algorithm & modern frontend technologies**
+- 💬 Ask me about **modern frontend dev & DSA**
 
-- 📫 How to reach me **abarnob21@gmail.com** and don't interfere in my private life
+- 📫 How to reach me **abarnob21@gmail.com** and don't interfere in my private life ☺️ .
 
 - ⚡ Fun fact **I am funny 😴**
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=arnob100&label=Profile%20views&color=0e75b6&style=flat" alt="arnob100" /> </p>
-<h3 align="left">My favorite coding platform :</h3>
+<h3 align="left">favorite coding platform :</h3>
 <p align="left">
 <p>Leetcode profile </p><a href="https://www.leetcode.com/arnob69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arnob69" height="45" width="45" /></a> <br> <br>
 <p>Geeks for Geeks </p> <a href="https://auth.geeksforgeeks.org/user/ararno47m4" target="blank">
