@@ -7,9 +7,7 @@
 - 🌱 I’m currently learning  Next.js and other backend tools**
 - 👨‍💻 All of my projects are available at (some are private)
 
-- 💬 Ask me about **modern frontend dev & DSA**
-
-- 📫 How to reach me **abarnob21@gmail.com** and don't interfere in my private life ☺️ .
+- 💬 Ask me about **frontend related stuff & DSA**
 
 - ⚡ Fun fact **I am funny 😴**
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=arnob100&label=Profile%20views&color=0e75b6&style=flat" alt="arnob100" /> </p>
