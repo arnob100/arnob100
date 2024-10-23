@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning  Next.js and other backend tools**
 - 👨‍💻 All of my projects are available at (some are private)
 
-- 💬 Ask me about **half knowledge is dangerous,still exploring**
+- 💬 Ask me about **dont ask it , half knowledge is dangerous so still exploring**
 
 - ⚡ Fun fact **A fun-whole being**
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=arnob100&label=Profile%20views&color=0e75b6&style=flat" alt="arnob100" /> </p>
