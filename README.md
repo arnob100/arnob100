@@ -7,11 +7,10 @@
 - 🌱 I’m currently learning  Next.js and other backend tools**
 - 👨‍💻 All of my projects are available at (some are private)
 
-- 💬 Ask me about **dont ask it , half knowledge is dangerous so still exploring**
+- 💬 Ask me about **dont ask it , half knowledge is dangerous. still exploring**
 
 - ⚡ Fun fact **A fun-whole being**
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=arnob100&label=Profile%20views&color=0e75b6&style=flat" alt="arnob100" /> </p>
-<h3 align="left">part time fun platform :</h3>
 <p align="left">
 <p>Leetcode profile </p><a href="https://www.leetcode.com/arnob69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arnob69" height="45" width="45" /></a> <br> <br>
 <p>Geeks for Geeks </p> <a href="https://auth.geeksforgeeks.org/user/ararno47m4" target="blank">
