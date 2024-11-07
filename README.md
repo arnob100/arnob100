@@ -1,8 +1,8 @@
 <h1 align="center">Hello 👋, I'm Arnob Bokshi</h1>
 
-<!-- Improved Gradient Header Section -->
+<!-- New Vector Image Header Section -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=400&section=header&text=Welcome%20to%20My%20Profile%20Page&fontSize=70&fontAlign=50&desc=Explore%20my%20projects%20and%20coding%20journey&descAlign=65&fontColor=fff" alt="Gradient Banner"/>
+  <img src="https://www.svgrepo.com/show/385848/programming.svg" alt="Vector Image Header" width="100%" />
 </p>
 
 <p align="center">
