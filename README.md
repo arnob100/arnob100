@@ -1,8 +1,8 @@
 <h1 align="center">Hello 👋, I'm Arnob Bokshi</h1>
 
-<!-- Gradient Header Section -->
+<!-- Enhanced Gradient Header Section -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Welcome%20to%20My%20Profile!&fontSize=40&fontAlign=50&desc=Explore%20my%20projects%20and%20coding%20journey&descAlign=70" alt="Welcome Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Welcome%20to%20My%20Profile%20Page&fontSize=50&fontAlign=50&desc=Explore%20my%20projects%20and%20coding%20journey&descAlign=70&fontColor=fff" alt="Welcome Banner" />
 </p>
 
 <p align="center">
@@ -72,4 +72,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arnob100&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=arnob100&show_icons=true&locale=en&theme=gruvbox" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arnob100&theme=gruvbox" alt="GitHub Streak" />
+</p>
+
+---
+
+<!-- Trophy Section - Reintroduced Below GitHub Stats -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=arnob100&theme=gruvbox&margin-w=10&margin-h=10&column=4&no-frame=true&no-bg=true&title=MultiSolved,Languages,Gold,Excellence" alt="Trophy Section"/>
 </p>
