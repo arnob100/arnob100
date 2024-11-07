@@ -1,11 +1,12 @@
 <h1 align="center">Hello 👋, I'm Arnob Bokshi</h1>
 
+<!-- Gradient Header Section -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arnob100&label=Profile%20Views&color=ff69b4&style=flat-square" alt="Profile Views" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Welcome%20to%20My%20Profile!&fontSize=40&fontAlign=50&desc=Explore%20my%20projects%20and%20coding%20journey&descAlign=70" alt="Welcome Banner" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/arnob100"><img src="https://github-profile-trophy.vercel.app/?username=arnob100&theme=radical&no-frame=true&row=1&column=6" alt="Trophies" /></a>
+  <img src="https://komarev.com/ghpvc/?username=arnob100&label=Profile%20Views&color=ff69b4&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
@@ -23,13 +24,13 @@
   <table>
     <tr>
       <td align="center">
-        <p><strong>🏅 LeetCode</strong></p>
+        <p><strong>LeetCode</strong></p>
         <a href="https://leetcode.com/arnob69" target="_blank">
           <img src="https://leetcard.jacoblin.cool/arnob69?theme=dark&font=Karma&ext=activity" alt="LeetCode Profile" height="200"/>
         </a>
       </td>
-      <td align="center">
-        <p><strong>🎓 GeeksforGeeks</strong></p>
+      <td align="center" style="padding-left: 20px;">
+        <p><strong>GeeksforGeeks</strong></p>
         <a href="https://auth.geeksforgeeks.org/user/ararno47m4" target="_blank">
           <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="80"/>
         </a>
@@ -66,16 +67,7 @@
 
 ---
 
-### 📈 GitHub Stats (New Theme)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arnob100&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=arnob100&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arnob100&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
-### 📈 GitHub Stats (Gruvbox Theme)
+### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arnob100&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=arnob100&show_icons=true&locale=en&theme=gruvbox" alt="GitHub Stats" />
