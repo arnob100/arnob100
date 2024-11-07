@@ -1,5 +1,7 @@
 <h1 align="center">Hello 👋, I'm Arnob Bokshi</h1>
 
+![GitHub Profile Theme](https://raw.githubusercontent.com/arnob100/arnob100/master/github-profile-theme-image.jpg)
+
 <!-- Gradient Background Section -->
 <p align="center">
   <img src="https://images.unsplash.com/photo-1560731788-626f028d64e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MXwyMDg4OXwwfDF8c2VhY3xlbnwwfHxhcm5vYng=on&ixlib=rb-1.2.1&q=80&w=1080" alt="Tech Background" width="100%" style="border-radius: 10px;"/>
@@ -68,6 +70,10 @@
 
 ---
 
+<p align="center">
+  <a href="https://github.com/arnob100"><img src="https://github-profile-trophy.vercel.app/?username=arnob100&theme=gruvbox&no-frame=true&row=1&column=6" alt="Trophies" /></a>
+</p>
+
 ### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arnob100&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="Top Languages" style="border-radius: 10px;"/>
@@ -77,6 +83,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arnob100&label=Profile%20Views&color=ff69b4&style=flat-square" alt="Profile Views" />
-</p>
+
