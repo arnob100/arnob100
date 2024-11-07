@@ -31,7 +31,7 @@
       <td align="center" style="padding-left: 20px;">
         <p><strong>GeeksforGeeks</strong></p>
         <a href="https://auth.geeksforgeeks.org/user/ararno47m4" target="_blank">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="70" style="border-radius: 20px;"/>
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="60" style="border-radius: 20px;"/>
         </a>
       </td>
     </tr>
