@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Arnob Bokshi</h1>
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1534079292874-2b7e5e7c0d92?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MXwyMDg4OXwwfDF8c2VhY3xlbnwwfHxhcm5vYng&ixlib=rb-1.2.1&q=80&w=1080" alt="Green Background" width="100%" style="border-radius: 10px;"/>
+  <img src="https://images.unsplash.com/photo-1534079292874-2b7e5e7c0d92?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080" alt="Green Background" width="100%" style="border-radius: 10px;"/>
 </p>
 <!-- Profile Views Counter -->
 <p align="center">
@@ -25,13 +25,13 @@
       <td align="center">
         <p><strong>LeetCode</strong></p>
         <a href="https://leetcode.com/arnob69" target="_blank">
-          <img src="https://leetcard.jacoblin.cool/arnob69?theme=dark&font=Karma&ext=activity" alt="LeetCode Profile" height="200" style="border-radius: 10px;"/>
+          <img src="https://leetcard.jacoblin.cool/arnob69?theme=dark&font=Karma&ext=activity" alt="LeetCode Profile" height="400" style="border-radius: 20px;"/>
         </a>
       </td>
       <td align="center" style="padding-left: 20px;">
         <p><strong>GeeksforGeeks</strong></p>
         <a href="https://auth.geeksforgeeks.org/user/ararno47m4" target="_blank">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="80" style="border-radius: 10px;"/>
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="100" style="border-radius: 20px;"/>
         </a>
       </td>
     </tr>
@@ -66,9 +66,12 @@
 
 ---
 
+
 <p align="center">
   <a href="https://github.com/arnob100"><img src="https://github-profile-trophy.vercel.app/?username=arnob100&theme=gruvbox&no-frame=true&row=1&column=6" alt="Trophies" /></a>
 </p>
+
+---
 
 ### 📈 GitHub Stats
 <p align="center">
