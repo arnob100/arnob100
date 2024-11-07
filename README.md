@@ -1,12 +1,8 @@
 <h1 align="center">Hello 👋, I'm Arnob Bokshi</h1>
 
-![GitHub Profile Theme](https://raw.githubusercontent.com/arnob100/arnob100/master/github-profile-theme-image.jpg)
-
-<!-- Gradient Background Section -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1560731788-626f028d64e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MXwyMDg4OXwwfDF8c2VhY3xlbnwwfHxhcm5vYng=on&ixlib=rb-1.2.1&q=80&w=1080" alt="Tech Background" width="100%" style="border-radius: 10px;"/>
+  <img src="https://images.unsplash.com/photo-1534079292874-2b7e5e7c0d92?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MXwyMDg4OXwwfDF8c2VhY3xlbnwwfHxhcm5vYng&ixlib=rb-1.2.1&q=80&w=1080" alt="Green Background" width="100%" style="border-radius: 10px;"/>
 </p>
-
 <!-- Profile Views Counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=arnob100&label=Profile%20Views&color=ff69b4&style=flat-square" alt="Profile Views" />
