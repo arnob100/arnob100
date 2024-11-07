@@ -4,13 +4,10 @@
   <a href="https://github.com/arnob100"><img src="https://github-profile-trophy.vercel.app/?username=arnob100&theme=gruvbox&no-frame=true&row=1&column=6" alt="Trophies" /></a>
 </p>
 
----
-
 <!-- Profile Views Counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=arnob100&label=Profile%20Views&color=ff69b4&style=flat-square" alt="Profile Views" />
 </p>
-
 ---
 
 ### 👨‍💻 About Me
