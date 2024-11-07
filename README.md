@@ -8,7 +8,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=arnob100&label=Profile%20Views&color=ff69b4&style=flat-square" alt="Profile Views" />
 </p>
----
 
 ### 👨‍💻 About Me
 - 🔭 Currently working on my [personal project](https://github.com/arnob100/CustomizePhoneCase)
