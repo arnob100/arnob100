@@ -1,8 +1,8 @@
 <h1 align="center">Hello 👋, I'm Arnob Bokshi</h1>
 
-<!-- New Vector Image Header Section -->
+<!-- New Gradient Header Section with Image -->
 <p align="center">
-  <img src="https://img.icons8.com/ios/452/online-course.png" alt="Vector Image Header" width="100%" />
+  <img src="https://images.unsplash.com/photo-1560731788-626f028d64e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MXwyMDg4OXwwfDF8c2VhY3xlbnwwfHxhcm5vYng=on&ixlib=rb-1.2.1&q=80&w=1080" alt="Tech Background" width="100%" style="border-radius: 10px;"/>
 </p>
 
 <p align="center">
@@ -76,7 +76,6 @@
 
 ---
 
-<!-- Trophy Section - Reintroduced Below GitHub Stats -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arnob100&theme=gruvbox&margin-w=10&margin-h=10&column=4&no-frame=true&no-bg=true&title=MultiSolved,Languages,Gold,Excellence" alt="Trophy Section"/>
+  <a href="https://github.com/arnob100"><img src="https://github-profile-trophy.vercel.app/?username=arnob100&theme=radical&no-frame=true&row=1&column=6" alt="Trophies" /></a>
 </p>
