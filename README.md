@@ -15,7 +15,7 @@
 
 ---
 
-### 🏆 Coding Profiles
+### 🏆 Favorite coding platform
 <div align="center">
   <table>
     <tr>
