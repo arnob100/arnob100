@@ -25,7 +25,7 @@
       <td align="center">
         <p><strong>LeetCode</strong></p>
         <a href="https://leetcode.com/arnob69" target="_blank">
-          <img src="https://leetcard.jacoblin.cool/arnob69?theme=dark&font=Karma&ext=activity" alt="LeetCode Profile" height="320" style="border-radius: 20px;"/>
+          <img src="https://leetcard.jacoblin.cool/arnob69?theme=dark&font=Karma&ext=activity" alt="LeetCode Profile" height="250" style="border-radius: 20px;"/>
         </a>
       </td>
       <td align="center" style="padding-left: 20px;">
