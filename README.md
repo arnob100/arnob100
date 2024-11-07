@@ -2,7 +2,7 @@
 
 <!-- New Vector Image Header Section -->
 <p align="center">
-  <img src="https://www.svgrepo.com/show/385848/programming.svg" alt="Vector Image Header" width="100%" />
+  <img src="https://img.icons8.com/ios/452/online-course.png" alt="Vector Image Header" width="100%" />
 </p>
 
 <p align="center">
