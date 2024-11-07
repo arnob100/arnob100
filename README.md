@@ -1,8 +1,5 @@
 <h1 align="center">Hello 👋, I'm Arnob Bokshi</h1>
 
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1534079292874-2b7e5e7c0d92?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080" alt="Green Background" width="100%" style="border-radius: 10px;"/>
-</p>
 <!-- Profile Views Counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=arnob100&label=Profile%20Views&color=ff69b4&style=flat-square" alt="Profile Views" />
@@ -25,13 +22,13 @@
       <td align="center">
         <p><strong>LeetCode</strong></p>
         <a href="https://leetcode.com/arnob69" target="_blank">
-          <img src="https://leetcard.jacoblin.cool/arnob69?theme=dark&font=Karma&ext=activity" alt="LeetCode Profile" height="400" style="border-radius: 20px;"/>
+          <img src="https://leetcard.jacoblin.cool/arnob69?theme=dark&font=Karma&ext=activity" alt="LeetCode Profile" height="320" style="border-radius: 20px;"/>
         </a>
       </td>
       <td align="center" style="padding-left: 20px;">
         <p><strong>GeeksforGeeks</strong></p>
         <a href="https://auth.geeksforgeeks.org/user/ararno47m4" target="_blank">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="100" style="border-radius: 20px;"/>
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="90" style="border-radius: 20px;"/>
         </a>
       </td>
     </tr>
