@@ -1,13 +1,22 @@
 <h1 align="center">Hello 👋, I'm Arnob Bokshi</h1>
 
+<!-- Banner -->
 <p align="center">
-  <a href="https://github.com/arnob100"><img src="https://github-profile-trophy.vercel.app/?username=arnob100&theme=gruvbox&no-frame=true&row=1&column=6" alt="Trophies" /></a>
+  <img src="https://your-banner-url.com/banner.png" alt="Banner" width="100%" style="border-radius: 10px;"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/arnob100">
+    <img src="https://github-profile-trophy.vercel.app/?username=arnob100&theme=gruvbox&no-frame=true&row=1&column=6" alt="Trophies" />
+  </a>
 </p>
 
 <!-- Profile Views Counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=arnob100&label=Profile%20Views&color=ff69b4&style=flat-square" alt="Profile Views" />
 </p>
+
+---
 
 ### 👨‍💻 About Me
 - 🔭 Currently working on my [personal project](https://github.com/arnob100/CustomizePhoneCase)
@@ -17,20 +26,20 @@
 
 ---
 
-### 🏆 Favorite coding platform
+### 🏆 Coding Profiles
 <div align="center">
   <table>
     <tr>
-      <td align="center">
-        <p><strong>LeetCode</strong></p>
+      <td align="center" width="50%">
+        <h3>LeetCode</h3>
         <a href="https://leetcode.com/arnob69" target="_blank">
-          <img src="https://leetcard.jacoblin.cool/arnob69?theme=dark&font=Karma&ext=activity" alt="LeetCode Profile" height="250" style="border-radius: 20px;"/>
+          <img src="https://leetcard.jacoblin.cool/arnob69?theme=dark&font=Karma&ext=activity" alt="LeetCode Profile" height="300" style="border-radius: 20px;"/>
         </a>
       </td>
-      <td align="center" style="padding-left: 20px;">
-        <p><strong>GeeksforGeeks</strong></p>
+      <td align="center" width="50%">
+        <h3>GeeksforGeeks</h3>
         <a href="https://auth.geeksforgeeks.org/user/ararno47m4" target="_blank">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="80" style="border-radius: 20px;"/>
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="80" style="margin-bottom: 10px;"/>
         </a>
       </td>
     </tr>
@@ -66,12 +75,8 @@
 ---
 
 ### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arnob100&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="Top Languages" style="border-radius: 10px;"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=arnob100&show_icons=true&locale=en&theme=gruvbox" alt="GitHub Stats" style="border-radius: 10px;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arnob100&theme=gruvbox" alt="GitHub Streak" style="border-radius: 10px;"/>
-</p>
-
----
-
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnob100&show_icons=true&layout=compact&theme=gruvbox" alt="Top Languages" height="150" style="border-radius: 10px; margin: 10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=arnob100&show_icons=true&theme=gruvbox" alt="GitHub Stats" height="150" style="border-radius: 10px; margin: 10px;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arnob100&theme=gruvbox" alt="GitHub Streak" height="150" style="border-radius: 10px; margin: 10px;"/>
+</div>
