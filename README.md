@@ -1,10 +1,5 @@
 <h1 align="center">Hello 👋, I'm Arnob Bokshi</h1>
 
-<!-- Custom Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/arnob100/arnob100/main/banner.png" alt="Arnob Bokshi Banner" />
-</p>
-
 <p align="center">
   <a href="https://github.com/arnob100">
     <img src="https://github-profile-trophy.vercel.app/?username=arnob100&theme=gruvbox&no-frame=true&row=1&column=6" alt="Trophies" />
