@@ -26,7 +26,7 @@
       <td align="center">
         <p><strong>LeetCode</strong></p>
         <a href="https://leetcode.com/arnob69" target="_blank">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode Profile" height="80" width="80" style="border-radius: 20px;"/>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode Profile" height="80" width="100" style="border-radius: 20px;"/>
         </a>
       </td>
       <td align="center">
