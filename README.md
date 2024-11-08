@@ -1,8 +1,8 @@
 <h1 align="center">Hello 👋, I'm Arnob Bokshi</h1>
 
-<!-- Banner -->
+<!-- Custom Banner -->
 <p align="center">
-  <img src="https://your-banner-url.com/banner.png" alt="Banner" width="100%" style="border-radius: 10px;"/>
+  <img src="https://raw.githubusercontent.com/arnob100/arnob100/main/banner.png" alt="Arnob Bokshi Banner" />
 </p>
 
 <p align="center">
@@ -16,8 +16,6 @@
   <img src="https://komarev.com/ghpvc/?username=arnob100&label=Profile%20Views&color=ff69b4&style=flat-square" alt="Profile Views" />
 </p>
 
----
-
 ### 👨‍💻 About Me
 - 🔭 Currently working on my [personal project](https://github.com/arnob100/CustomizePhoneCase)
 - 🌱 Learning **Next.js** and backend tools
@@ -26,20 +24,20 @@
 
 ---
 
-### 🏆 Coding Profiles
+### 🏆 Favorite Coding Platforms
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="50%">
-        <h3>LeetCode</h3>
+      <td align="center">
+        <p><strong>LeetCode</strong></p>
         <a href="https://leetcode.com/arnob69" target="_blank">
-          <img src="https://leetcard.jacoblin.cool/arnob69?theme=dark&font=Karma&ext=activity" alt="LeetCode Profile" height="300" style="border-radius: 20px;"/>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode Profile" height="80" style="border-radius: 20px;"/>
         </a>
       </td>
-      <td align="center" width="50%">
-        <h3>GeeksforGeeks</h3>
+      <td align="center">
+        <p><strong>GeeksforGeeks</strong></p>
         <a href="https://auth.geeksforgeeks.org/user/ararno47m4" target="_blank">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="80" style="margin-bottom: 10px;"/>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks Profile" height="80" style="border-radius: 20px;"/>
         </a>
       </td>
     </tr>
@@ -50,33 +48,43 @@
 
 ### 🛠 Languages & Tools
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="46" alt="C++" style="margin: 0 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="46" alt="TypeScript" style="margin: 0 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="46" alt="Next.js" style="margin: 0 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="46" alt="JavaScript" style="margin: 0 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="46" alt="React" style="margin: 0 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="46" alt="PostgreSQL" style="margin: 0 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="46" alt="MongoDB" style="margin: 0 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="46" alt="Node.js" style="margin: 0 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="46" alt="Prisma" style="margin: 0 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="46" alt="Java" style="margin: 0 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="46" alt="Jest" style="margin: 0 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appwrite/appwrite-original.svg" height="46" alt="Appwrite" style="margin: 0 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="46" alt="Linux" style="margin: 0 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="46" alt="Tailwind CSS" style="margin: 0 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="46" alt="HTML5" style="margin: 0 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="46" alt="Firebase" style="margin: 0 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="46" alt="Git" style="margin: 0 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="46" alt="Docker" style="margin: 0 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="46" alt="IntelliJ" style="margin: 0 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="46" alt="VS Code" style="margin: 0 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="C++" style="margin: 0 15px; padding: 10px; border-radius: 10px; background: #f7f7f7;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="TypeScript" style="margin: 0 15px; padding: 10px; border-radius: 10px; background: #f7f7f7;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60" alt="Next.js" style="margin: 0 15px; padding: 10px; border-radius: 10px; background: #f7f7f7;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="JavaScript" style="margin: 0 15px; padding: 10px; border-radius: 10px; background: #f7f7f7;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="React" style="margin: 0 15px; padding: 10px; border-radius: 10px; background: #f7f7f7;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="PostgreSQL" style="margin: 0 15px; padding: 10px; border-radius: 10px; background: #f7f7f7;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="MongoDB" style="margin: 0 15px; padding: 10px; border-radius: 10px; background: #f7f7f7;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="Node.js" style="margin: 0 15px; padding: 10px; border-radius: 10px; background: #f7f7f7;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="60" alt="Prisma" style="margin: 0 15px; padding: 10px; border-radius: 10px; background: #f7f7f7;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="Java" style="margin: 0 15px; padding: 10px; border-radius: 10px; background: #f7f7f7;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="60" alt="Jest" style="margin: 0 15px; padding: 10px; border-radius: 10px; background: #f7f7f7;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appwrite/appwrite-original.svg" height="60" alt="Appwrite" style="margin: 0 15px; padding: 10px; border-radius: 10px; background: #f7f7f7;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="Linux" style="margin: 0 15px; padding: 10px; border-radius: 10px; background: #f7f7f7;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="60" alt="Tailwind CSS" style="margin: 0 15px; padding: 10px; border-radius: 10px; background: #f7f7f7;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="HTML5" style="margin: 0 15px; padding: 10px; border-radius: 10px; background: #f7f7f7;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="60" alt="Firebase" style="margin: 0 15px; padding: 10px; border-radius: 10px; background: #f7f7f7;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="Git" style="margin: 0 15px; padding: 10px; border-radius: 10px; background: #f7f7f7;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="Docker" style="margin: 0 15px; padding: 10px; border-radius: 10px; background: #f7f7f7;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="60" alt="IntelliJ" style="margin: 0 15px; padding: 10px; border-radius: 10px; background: #f7f7f7;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="VS Code" style="margin: 0 15px; padding: 10px; border-radius: 10px; background: #f7f7f7;"/>
 </p>
 
 ---
 
 ### 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnob100&show_icons=true&layout=compact&theme=gruvbox" alt="Top Languages" height="150" style="border-radius: 10px; margin: 10px;"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=arnob100&show_icons=true&theme=gruvbox" alt="GitHub Stats" height="150" style="border-radius: 10px; margin: 10px;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arnob100&theme=gruvbox" alt="GitHub Streak" height="150" style="border-radius: 10px; margin: 10px;"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arnob100&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="Top Languages" style="border-radius: 10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=arnob100&show_icons=true&locale=en&theme=gruvbox" alt="GitHub Stats" style="border-radius: 10px;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arnob100&theme=gruvbox" alt="GitHub St```markdown
+reak" alt="GitHub Streak Stats" style="border-radius: 10px;"/>
+</p>
+
+---
+
+### 🔗 Connect with Me
+<p align="center">
+  <a href="https://linkedin.com/in/arnobbokshi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/arnobbokshi" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://arnobbokshi.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/></a>
+</p>
