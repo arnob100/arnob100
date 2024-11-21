@@ -1,8 +1,18 @@
 <h1 align="center">Hello 👋, I'm Arnob Bokshi</h1>
 
+<!-- Gradient Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F72585&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Open-Source+Enthusiast;Passionate+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF7F&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Programmer;Passionate+Learner" alt="Typing SVG" />
 </p>
+
+<!-- Gradient Badges -->
+<p align="center">
+  <a href="https://github.com/arnob100">
+    <img src="https://img.shields.io/badge/Profile%20Views-💻-00C853?style=for-the-badge&logo=github&logoColor=white&labelColor=00796B" alt="Profile Views">
+    <img src="https://img.shields.io/badge/Tech%20Stack-JavaScript%2C%20React%2C%20Next.js%2C%20TailwindCSS-00C853?style=for-the-badge&logo=stackshare&logoColor=white&labelColor=00796B" alt="Tech Stack Badge">
+  </a>
+</p>
+
 
 <!-- Profile Views Counter -->
 <p align="center">
