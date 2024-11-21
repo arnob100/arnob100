@@ -1,9 +1,7 @@
 <h1 align="center">Hello 👋, I'm Arnob Bokshi</h1>
 
 <p align="center">
-  <a href="https://github.com/arnob100">
-   <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" alt="Trophies" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F72585&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Open-Source+Enthusiast;Passionate+Learner" alt="Typing SVG" />
 </p>
 
 <!-- Profile Views Counter -->
