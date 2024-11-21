@@ -7,12 +7,12 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=1E3A8A&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Programmer;Passionate+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=40A9E9&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Programmer;Passionate+Learner" alt="Typing SVG" />
 </p>
 
 <!-- Profile Views Badge -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arnob100&label=Profile%20Views&color=1E3A8A&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=arnob100&label=Profile%20Views&color=40A9E9&style=flat-square" alt="Profile Views" />
 </p>
 
 
