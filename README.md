@@ -1,22 +1,7 @@
 <h1 align="center">Hello 👋, I'm Arnob Bokshi</h1>
 
-<!-- Gradient Banner -->
-<!-- Gradient Banner -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF7F&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Programmer;Passionate+Learner" alt="Typing SVG" />
-</p>
-
-<!-- Gradient Divider -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/86673469/203084728-c64d3dc1-5f45-4f48-a56d-0e9168e89464.png" alt="Gradient Divider" width="80%">
-</p>
-
-<!-- Bottom Theme -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/86673469/203085332-162ae51c-6652-472c-a509-7e348d3300ed.png" alt="Beautiful Theme" width="70%">
-</p>
-
-<!-- Gradient Badges -->
 
 
 
