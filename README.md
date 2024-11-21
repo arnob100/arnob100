@@ -1,9 +1,15 @@
 <h1 align="center">Hello 👋, I'm Arnob Bokshi</h1>
-<br>
+
+<!-- Image below the title -->
+<p align="center">
+  <img src="https://cdn3.f-cdn.com/files/download/97941784/programmin.jpg" alt="Programming Image" width="80%" />
+</p>
+
 <!-- Typing SVG -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF7F&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Programmer;Passionate+Learner" alt="Typing SVG" />
 </p>
+
 <!-- Profile Views Badge -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=arnob100&label=Profile%20Views&color=00FF7F&style=flat-square" alt="Profile Views" />
