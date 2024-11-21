@@ -1,17 +1,23 @@
 <h1 align="center">Hello 👋, I'm Arnob Bokshi</h1>
 
 <!-- Gradient Banner -->
+<!-- Gradient Banner -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF7F&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Programmer;Passionate+Learner" alt="Typing SVG" />
 </p>
 
-<!-- Gradient Badges -->
+<!-- Gradient Divider -->
 <p align="center">
-  <a href="https://github.com/arnob100">
-    <img src="https://img.shields.io/badge/Profile%20Views-💻-00C853?style=for-the-badge&logo=github&logoColor=white&labelColor=00796B" alt="Profile Views">
-    <img src="https://img.shields.io/badge/Tech%20Stack-JavaScript%2C%20React%2C%20Next.js%2C%20TailwindCSS-00C853?style=for-the-badge&logo=stackshare&logoColor=white&labelColor=00796B" alt="Tech Stack Badge">
-  </a>
+  <img src="https://user-images.githubusercontent.com/86673469/203084728-c64d3dc1-5f45-4f48-a56d-0e9168e89464.png" alt="Gradient Divider" width="80%">
 </p>
+
+<!-- Bottom Theme -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/86673469/203085332-162ae51c-6652-472c-a509-7e348d3300ed.png" alt="Beautiful Theme" width="70%">
+</p>
+
+<!-- Gradient Badges -->
+
 
 
 <!-- Profile Views Counter -->
