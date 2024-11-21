@@ -2,7 +2,7 @@
 
 <!-- Image below the title -->
 <p align="center">
-  <img src="https://cdn3.f-cdn.com/files/download/97941784/programmin.jpg" alt="Programming Image" width="80%" />
+  <img src="https://media.istockphoto.com/id/1290455818/vector/programming-coding-neural-network-and-artificial-intelligence-or-ai-software-develop.jpg?s=612x612&w=0&k=20&c=eVVUTVPG0d4KusaADehFdSquOfBkd0-3TuIgmPssJQw=" alt="Programming Image" width="80%" />
 </p>
 
 <!-- Typing SVG -->
