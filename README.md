@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/arnob100">
-    <img src="[https://github-profile-trophy.vercel.app/?username=arnob100&theme=gruvbox&no-frame=true&row=1&column=6](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fwhat-programmer-denzil-govender&psig=AOvVaw1YTBuDko82HU_3Ip5xhhv9&ust=1732271312428000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNiFltmb7YkDFQAAAAAdAAAAABAE)" alt="Trophies" />
+   <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" alt="Trophies" />
   </a>
 </p>
 
